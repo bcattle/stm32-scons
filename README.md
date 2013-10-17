@@ -1,4 +1,4 @@
-
+This is a work in progress, based on the resources below. 
 
 #### Useful resources
 
