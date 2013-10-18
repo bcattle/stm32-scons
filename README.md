@@ -13,6 +13,9 @@ This is a work in progress, based on the resources below.
 * https://github.com/ObKo/stm32-cmake (Uses CMake)
 * https://github.com/adrienbailly/STM32-CMake-CodeSourcery (Uses CMake)
 
+Software floating point support
+* http://michaldemin.wordpress.com/2010/02/09/arm-toolchain-newlib-part1/
+
 Simulation with QEmu
 * http://www.bravegnu.org/gnu-eprog/hello-arm.html
 * http://cgi.cs.indiana.edu/~geobrown/stm32/Main/Simulation
